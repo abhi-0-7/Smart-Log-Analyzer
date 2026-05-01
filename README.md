@@ -70,8 +70,3 @@ BIG DATA/
 ├── synopsis.md              # Project synopsis and academic documentation
 └── README.md                # This file
 ```
-
-## 🎓 Academic Info
-- **Course Code:** AI362IA (Big Data Technologies)
-- **Department:** Artificial Intelligence and Machine Learning
-- **Team Members:** Abhilash Maiya Y, Biradar Abhishek Mallikarjun, Harsh Agarwal
