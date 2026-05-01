@@ -1,0 +1,28 @@
+# Data and Environments
+data/raw/*
+!data/raw/.gitkeep
+jdk17/
+.gemini/
+hadoop/
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.env
+.pytest_cache/
+
+# Spark & Hadoop
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+_SUCCESS
+
+# OS generated files
+.DS_Store
+Thumbs.db

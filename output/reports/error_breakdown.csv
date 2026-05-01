@@ -1,0 +1,6 @@
+error_type,status,count
+Client Error (4xx),404,20803
+Client Error (4xx),403,225
+Server Error (5xx),500,65
+Server Error (5xx),501,41
+Client Error (4xx),400,2
