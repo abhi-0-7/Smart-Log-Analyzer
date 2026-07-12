@@ -1,0 +1,33 @@
+# Data files and massive logs
+data/raw_logs/
+data/*.log
+data/*.json
+data/processed_logs/
+data/checkpoints/
+
+# Models (Optional, but joblib files can be large)
+# models/*.joblib 
+# (Let's keep the model so the repo works out of the box without retraining, since it's only a few MBs)
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.db
+auth.db
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
